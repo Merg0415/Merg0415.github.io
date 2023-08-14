@@ -9,7 +9,8 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Mergen Naidoo
-description: "Hi I'm Mergen, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Mergen. I am an experienced Data Head specializing in Analytics, Data Engineering, Machine Learning, Data Science, Data Management, and Data Strategy. I have 17 Years of experience in Financial Services (Banking and Insurance). I am a strong analytical and strategic thinker with a passion for developing teams that unlock opportunities in data. 
+I have built many teams with skills in Data Engineering, ML Engineering, Data Science, Business Intelligence, Product support in both South Africa and London. My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
